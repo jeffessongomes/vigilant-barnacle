@@ -1,6 +1,6 @@
 <h3 align="center">
 
-Github - Explorer é um projeto **Open Source** desenvolvido a fim melhorar minhas habilidades em ***ReactJS, TypeScript, Styled-Components***
+Github - Explorer é um projeto **Open Source** desenvolvido a fim de melhorar minhas habilidades em ***ReactJS, TypeScript, Styled-Components, Axios***.
 
 </h3>
 
