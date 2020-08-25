@@ -13,7 +13,7 @@ O projeto tem como propósito utilizar a API do Github através do Axios.
 
 #### **Website** ([React][react] + [TypeScript][typescript])
 
-  - **[StyledComponents][StyledComponents]**
+  - **[Styled-Components][StyledComponents]**
   - **[Axios][Axios]**
 
   \* Veja o arquivo <kbd>[package.json](./sources/website/package.json)</kbd>
