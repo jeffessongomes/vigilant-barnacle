@@ -73,4 +73,4 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
 [axios]: https://github.com/axios/axios
 
-[Styled_Components]: https://styled-components.com/
+[StyledComponents]: https://styled-components.com/
