@@ -7,7 +7,7 @@ import Repository from '../pages/Respository';
 const Routes: React.FC = () => (
   <Switch>
     <Route path="/" component={Dashboard} exact />
-    <Route path="/repository" component={Repository} />
+    <Route path="/repository/:repository+" component={Repository} />
   </Switch>
 );
 
