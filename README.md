@@ -4,7 +4,7 @@ Github - Explorer é um projeto **Open Source** desenvolvido a fim de melhorar m
 
 </h3>
 
-Você pode ver a demonstração da aplicação clicando <kbd>[App](https://github-explorer-1.herokuapp.com/)</kbd> aqui.
+Você pode ver a demonstração da aplicação clicando <kbd>[Aqui](https://github-explorer-1.herokuapp.com/)</kbd>.
 
 ## **:rocket: OBJETIVO**
 
